@@ -1,8 +1,8 @@
 def calculate(sign,num1,num2):
     if sign == "+":
-        print(num1+num2)
+    print(num1+num2)
     elif sign == "-":
-        print(num1-num2)
+    print(num1-num2)
     else:
         print("нет такой операции")
 while True:
